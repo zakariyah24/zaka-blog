@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Party!",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id esse veritatis laboriosam. Est vitae voluptas, aliquid eius unde ex aliquam tenetur fugiat eveniet, explicabo, voluptates corporis tempore doloremque. Accusamus animi veniam labore corporis consequatur id, nam aspernatur iusto omnis non vero quas ad quam, eos quae perferendis error quod. Dignissimos pariatur ipsum mollitia, ut, quia doloremque sequi neque commodi debitis maxime vel, quo nostrum. Sequi, tempore ullam aut est itaque ipsam! Quaerat, quas. Esse doloribus laboriosam nobis ipsam odio commodi animi libero natus et ad aut dolorum rerum odit earum dolore tempora quisquam placeat quia cum maxime quis perspiciatis, consequuntur in tenetur? Maiores natus modi officiis veniam voluptas animi praesentium similique commodi, dicta cupiditate impedit necessitatibus iusto quasi sed voluptatibus placeat hic aperiam nisi atque sint voluptate? Nobis mollitia expedita tempora voluptatem inventore dolor ea beatae harum, voluptas architecto fugiat iste. Harum porro quisquam soluta velit quibusdam deserunt, rerum rem necessitatibus voluptate et a perspiciatis? Iusto tenetur expedita sapiente! Dignissimos, libero repudiandae porro possimus sit excepturi sapiente deleniti officia necessitatibus quo, ipsa temporibus et doloremque cupiditate eum modi labore. Nulla architecto asperiores natus incidunt magnam nesciunt error. Quidem autem architecto ullam, blanditiis nihil sequi exercitationem adipisci aut doloribus, dolorum perspiciatis?",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Jakariyah Party!",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id esse veritatis laboriosam. Est vitae voluptas, aliquid eius unde ex aliquam tenetur fugiat eveniet, explicabo, voluptates corporis tempore doloremque. Accusamus animi veniam labore corporis consequatur id, nam aspernatur iusto omnis non vero quas ad quam, eos quae perferendis error quod. Dignissimos pariatur ipsum mollitia, ut, quia doloremque sequi neque commodi debitis maxime vel, quo nostrum. Sequi, tempore ullam aut est itaque ipsam! Quaerat, quas. Esse doloribus laboriosam nobis ipsam odio commodi animi libero natus et ad aut dolorum rerum odit earum dolore tempora quisquam placeat quia cum maxime quis perspiciatis, consequuntur in tenetur? Maiores natus modi officiis veniam voluptas animi praesentium similique commodi, dicta cupiditate impedit necessitatibus iusto quasi sed voluptatibus placeat hic aperiam nisi atque sint voluptate? Nobis mollitia expedita tempora voluptatem inventore dolor ea beatae harum, voluptas architecto fugiat iste. Harum porro quisquam soluta velit quibusdam deserunt, rerum rem necessitatibus voluptate et a perspiciatis? Iusto tenetur expedita sapiente! Dignissimos, libero repudiandae porro possimus sit excepturi sapiente deleniti officia necessitatibus quo, ipsa temporibus et doloremque cupiditate eum modi labore. Nulla architecto asperiores natus incidunt magnam nesciunt error. Quidem autem architecto ullam, blanditiis nihil sequi exercitationem adipisci aut doloribus, dolorum perspiciatis?",
+      "author": "jaka",
+      "id": 3
+    }
+  ]
+}
